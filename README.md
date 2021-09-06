@@ -1,5 +1,14 @@
 ﻿## Hyperparameter tuning for Machine Learning - Code Repository
 
+
+slides: https://www.dropbox.com/sh/wzbn528sxwdc22k/AAD7IJej-9NwcD5bHK8bbMDka?dl=0
+
+
+
+
+
+
+
 ![Python 3.6](https://img.shields.io/badge/python-3.6-success.svg)
 ![Python 3.7](https://img.shields.io/badge/python-3.7-success.svg)
 ![Python 3.8](https://img.shields.io/badge/python-3.8-success.svg)
